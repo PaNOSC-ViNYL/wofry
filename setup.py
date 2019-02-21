@@ -50,7 +50,9 @@ CLASSIFIERS = (
 
 INSTALL_REQUIRES = (
     'syned>=1.0.12',
-    'h5py'
+    'srxraylib>=1.0.22',
+    'h5py',
+    'pytest'
 )
 
 SETUP_REQUIRES = (
